@@ -1,0 +1,23 @@
+@font-face {
+  font-family: Gelion;
+  src: url("../fonts/Gelion-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Gelion;
+  src: url("../fonts/Gelion-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Gelion;
+  src: url("../fonts/Gelion-Medium.ttf") format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Gelion;
+  src: url("../fonts/Gelion-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
